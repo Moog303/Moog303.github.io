@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: Moog
 email: quaizy@snu.ac.kr
-brand: Sungmook Leem (Moog)
+brand: Sungmook Leem
 headline: UX Designer, Engineer (Maybe wannabe until now)
 description: > # this means to ignore newlines until "baseurl:"
   New Site
