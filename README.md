@@ -1,15 +1,80 @@
-# Jekyll Modern Blog Alternative Version
+# Jekyll Instagram Portfolio Theme
 
-A Simple, Clean and responsive modern blog for jekyll.
+Clean, minimalistic and responsive portfolio theme for Jekyll powered by Bootstrap 4.
+For the portfolio section is used Instagram widget, but you can easily update it with another content source.
 
-forked version of [inded/modern-theme](https://github.com/inded/Jekyll_modern-blog)
+## Live Demo
 
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
+https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
+![Jekyll Instagram Portfolio Theme](./screenshot.png "Jekyll Instagram Portfolio Theme")
 
-## License
+## Showcase
 
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
+The best usage examples:
 
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+- [Pavel Guzenko](http://guzenko.org.ua)
+- [Victor Mikitenko](https://mikitenko-org-ua.github.io/site/)
+- [Anthony Fuentes](http://anthonyfuentes.us/)
+- [Serhii Grytsyshyn](https://grserhii.github.io/)
+
+To add your example: fork the repo, add new line to the list above and create a pull request.
+
+## Featured on
+
+- [Template.net](https://www.template.net/cms-templates/jekyll/jekyll-themes-templates/)
+- [JekyllThemes.org](http://jekyllthemes.org/themes/instagram-portfolio-theme/)
+
+## Powered by
+
+- [Jekyll](https://jekyllrb.com/)
+- [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
+- [jQuery](https://jquery.com/)
+- [SnapWidget](https://snapwidget.com)
+- [Google Fonts: Lobster](https://fonts.google.com/specimen/Lobster)
+- [Font Awesome](http://fontawesome.io/)
+
+## Installation
+Install Jekyll:
+
+```
+gem install jekyll bundler
+```
+
+Install bundle dependiencies:
+
+```
+bundle install
+```
+
+When finished, run the dev server:
+
+```
+bundle exec jekyll serve
+```
+
+or just:
+
+```
+jekyll serve
+
+```
+To stop the server, use `CTRL+C`.
+
+## Building front-end assets: styles and scripts
+
+Install module dependencies:
+
+```
+npm install
+```
+
+Run the build script to generate updated front-end assets:
+
+```
+npm run build
+```
+
+Watch for changes and automatically rebuild assets (`CTRL+C` to stop):
+```
+npm run watch
+```
