@@ -463,7 +463,7 @@ body,html{
 	}
 /*-- portfolio --*/
 #portfolio{
-	padding:5em 0 2em;
+	padding:0em 0 0;
 	background:#fff;
 	}
 .portfolio-info p{
@@ -655,15 +655,16 @@ ul#filters {
 	border-radius: 4px;
 	padding: 6px 12px;
 	text-decoration: none;
-	color:#75728A;
+	color:#000;
 	cursor: pointer;
-	font-size: 14px;
+	font-size: 16px;
+	font-style: italic;
 	font-weight: 600;
 	margin: 0 10px 0 0;
 	}
 	#filters li span.active,#filters li span:hover {
 	background: #11dada;
-	color: #ffffff;
+	color: #fff;
     transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -1309,7 +1310,7 @@ p.text span{
 		margin: 1em auto 1em auto;
 		}
 	#portfolio {
-		padding: 4em 0 0em;
+		padding: 0em 0 0em;
 		}
 	.blog-left {
 		width: 56%;
@@ -1617,7 +1618,7 @@ p.text span{
 		padding: 9px 0;
 		}
 	#portfolio {
-		padding: 4em 0 5em;
+		padding: 0em 0 0em;
 		}
 	.blog {
 		padding: 2em 0 0;
@@ -1683,7 +1684,7 @@ p.text span{
 		width:25%;
 		}
 	#portfolio {
-		padding: 4em 0 0em;
+		padding: 0em 0 0em;
 		}
 	.blog {
 		padding: 2em 0 0;
@@ -2001,7 +2002,7 @@ p.text span{
 		font-size: 25px;
 		}
 	#portfolio {
-		padding: 3em 0 0em;
+		padding: 0em 0 0em;
 		}
 	.blog-left-text h3 a {
 		font-size: 17px;
