@@ -1,4 +1,6 @@
 /*--
+
+
 Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -11,7 +13,7 @@ body,html{
 	}
 /*-- banner --*/
 .banner{
-	background:#32a8e9	;
+	background:#32a8e9;
 	background-size:cover;
 	width:100%;
 	min-height:900px;
@@ -1398,7 +1400,7 @@ p.text span{
 		}
 	ul.nav1{
 		display:none;
-		background:#40e1e1;
+		background:#5ab9ed;
 		}
 	.top-nav ul li a{
 		display:block;
