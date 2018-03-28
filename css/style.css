@@ -11,7 +11,7 @@ body,html{
 	}
 /*-- banner --*/
 .banner{
-	background:#11dada;
+	background:#32a8e9	;
 	background-size:cover;
 	width:100%;
 	min-height:900px;
@@ -34,7 +34,7 @@ body,html{
 	}
 .head-logo-right-icons{
 	float: left;
-	background: #11DADA;
+	background: #32a8e9	;
 	margin-left: 1.5em;
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -84,7 +84,7 @@ body,html{
 	font-family: 'Ubuntu', sans-serif;
 	}
 .head-logo-right ul li a:hover{
-	color:#11DADA;
+	color:#32a8e9	;
 	text-decoration:none;
 	}
 .banner-info h3 span {
@@ -245,7 +245,7 @@ body,html{
 .about h4{
 	color:#fff;
 	font-size: 25px;
-	background-color: #11dada;
+	background-color: #32a8e9	;
 	font-weight: 700;
 	padding-bottom: 1em;
 	padding-top: 1em;
@@ -273,7 +273,7 @@ body,html{
 	text-align:center;
 	}
 .blog-1 a{
-	background:#11DADA;
+	background:#32a8e9	;
 	color:#fff;
 	letter-spacing: 1px;
 	font-size:15px;
@@ -291,7 +291,7 @@ body,html{
   -ms-border-radius: 5px;
 	}
 .blog-1 a:hover{
-	color:#11DADA;
+	color:#32a8e9	;
 	background:#fff;
 	text-decoration:none;
 	}
@@ -446,7 +446,7 @@ body,html{
 }
 /*-- //to-top --*/
 .banner1{
-	background: #11dada;
+	background: #32a8e9	;
 	background-size:cover;
 	width:100%;
 	min-height:200px;
@@ -477,7 +477,7 @@ body,html{
 	font-size:35px;
 	font-weight:600;
 	margin:0em;
-	color:#11dada;
+	color:#32a8e9	;
 	}
 .portfolio-wrapper h3{
 	color:#fff;
@@ -663,7 +663,7 @@ ul#filters {
 	margin: 0 10px 0 0;
 	}
 	#filters li span.active,#filters li span:hover {
-	background: #11dada;
+	background: #32a8e9	;
 	color: #fff;
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -1434,7 +1434,7 @@ p.text span{
 		}
 	.top-nav1 ul li a:hover{
 		text-decoration:none;
-		color: #11DADA;
+		color: #32a8e9	;
 		}
 	.top-nav1 ul {
 		position: absolute;
