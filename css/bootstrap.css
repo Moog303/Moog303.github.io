@@ -292,8 +292,9 @@ a {
 }
 a:hover,
 a:focus {
-  color: #11DADA;
-  text-decoration: underline;
+  color: #fff;
+  margin: auto;
+  border: 1px;
 }
 a:focus {
   outline: thin dotted;
@@ -400,12 +401,11 @@ h2,
 .h2,
 h3,
 .h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 48%;
 }
 h1 small,
 .h1 small,
-h2 small,
+ small,
 .h2 small,
 h3 small,
 .h3 small,
@@ -446,7 +446,7 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 150%;
 }
 h3,
 .h3 {
@@ -478,6 +478,7 @@ p {
     font-size: 21px;
   }
 }
+
 small,
 .small {
   font-size: 85%;
@@ -738,19 +739,37 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+@media (min-width: 200px) {
+  h2,
+  .h2 {
+    font-size: 115%
+  }
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;
+  }
+  h2,
+  .h2 {
+    font-size: 130%;
   }
 }
 @media (min-width: 992px) {
   .container {
     width: 970px;
   }
+  h2,
+  .h2 {
+    font-size: 150%;
+  }
 }
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
+  }
+  h2,
+  .h2 {
+    font-size: 150%;
   }
 }
 .container-fluid {
