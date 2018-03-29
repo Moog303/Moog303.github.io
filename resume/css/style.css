@@ -319,7 +319,7 @@ ul.list2 li {
   margin-top: 38px;
 }
 .header-right {
-  width: 40%;
+  width: 33%;
 }
 .list ul li {
   font-size: 0.8em;
@@ -359,10 +359,10 @@ ul.list2 li {
 }
 
 .left_grid {
-  width: 69%;
+  width: 50%;
 }
 .right_grid {
-  width: 29%;
+  width: 38%;
 }
 
 ul.list2 li {
@@ -374,7 +374,7 @@ ul.list2 li {
 }
 @media (max-width:640px){
 .header-right {
-  width: 43%;
+  width: 33%;
 }
 .header h1 {
   padding: 51px 18px 11px 18px;
