@@ -176,7 +176,13 @@ a:focus {
   background:#CDCDCD;
   margin:4px 0 25px 0
 }
-.progressy1 p,.progressy2 p {
+.progressy1 p{
+  background: #333;
+  width: 100%;
+  height: 15px;
+}
+
+.progressy2 p {
   background:#333;
   width: 95%;
   height: 15px;
