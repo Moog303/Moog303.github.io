@@ -262,22 +262,23 @@ body,html{
 	display:block;
 	}
 .about p{
-	color:#737373;
-	font-size:15px;
+	color:#000;
+	font-size:16px;
 	letter-spacing: 1px;
 	line-height: 28px;
 	margin: 2em 0 3em;
 	}
 .about p a{
-	color:#737373;
-	font-size:15px;
+	color:#000;
+	font-size:16px;
 	letter-spacing: 1px;
 	line-height: 28px;
 	margin: 2em 0 3em;
 	}
 .about p a:hover{
 	color:#32a8e9;
-	font-size:15px;
+	font-size:16px;
+	font-style: italic;
 	letter-spacing: 1px;
 	line-height: 28px;
 	margin: 2em 0 3em;
