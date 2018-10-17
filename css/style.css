@@ -26,13 +26,13 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 h1 {
-    font-size   : 26px;
+    font-size   : 28px;
     line-height : 1.8em;
     font-weight : 700;
     }
 
 h2 {
-    font-size   : 18px;
+    font-size   : 20px;
     line-height : 1.8em;
     font-weight : 700;
     }
@@ -84,7 +84,7 @@ a:active {
 a:hover,
 a:focus {
     text-decoration : none;
-    color           : #00e8dd;
+    color           : #008c72;
     }
 
 p {
@@ -247,9 +247,9 @@ button:focus,
     }
 
 .section-title h2 {
-    font-size: 20px;
+    font-size: 22px;
     margin-bottom : 5px;
-    color         : #333333;
+    color         : #999999;
     }
 
 /*-----------------------------
@@ -340,11 +340,11 @@ button:focus,
     line-height   : 33px;
     text-align    : center;
     border-radius : 2px;
-    border        : 2px solid #eeeeee;
+    border        : 2px solid #01c6a2;
     }
 
 .social-icon li a:hover {
-    border-color : #01c6a2;
+    border-color : #008c72;
     }
 
 /*-------------------
